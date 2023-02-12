@@ -11,3 +11,5 @@ another try
 try
 
 mb
+
+bash code in buildspec.yml
