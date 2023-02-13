@@ -15,3 +15,5 @@ mb
 bash code in buildspec.yml
 
 testing out CODEBUILD_WEBHOOK_EVENT
+
+test again but this time CODEBUILD_WEBHOOK_TRIGGER
